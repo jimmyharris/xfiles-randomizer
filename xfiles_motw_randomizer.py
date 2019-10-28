@@ -29,11 +29,7 @@ for row in rows:
         episode_num = int(cells[0].text)
         title = cells[1].a.text
         wikia_link = f'https://x-files.fandom.com{cells[1].a.get("href")}'
-        print(
-            's{season:02d}ep{ep:02d}: "{title}"'.format(
-                season=season, ep=episode_num, title=title
-            )
-        )
+        print(f's{season:02d}ep{episode_num:02d}: "{title}"')
         motw_list["season"].append(season)
         motw_list["episode"].append(episode_num)
         motw_list["title"].append(title)
@@ -41,4 +37,4 @@ for row in rows:
 
 motw_list = pd.DataFrame(motw_list)
 
-motw_list.to_csv(os.path.join(os.path.dirname(__file__), 'motw_files.csv'))
+motw_list.to_csv(os.path.join(os.path.dirname(__file__), "motw_files.csv"))

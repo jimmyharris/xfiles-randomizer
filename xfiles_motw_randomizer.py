@@ -1,40 +1,46 @@
 import requests
 from bs4 import BeautifulSoup
 import os
+from pathlib import Path
 
 from parse import parse
 
-import pandas as pd
+import seasons
 
 html = requests.get("https://x-files.fandom.com/wiki/Monster_of_the_Week")
 
-soup = BeautifulSoup(html.text)
+soup = BeautifulSoup(html.text, features="lxml")
 
 rows = soup.find("table", attrs={"class": "wikitable"}).find_all("tr")
 
 season = None
-
-motw_list = dict(season=[], episode=[], title=[], url=[])
+motw_list = []
 
 for row in rows:
 
     headers = row.find_all("th", attrs={"colspan": "3"})
 
     if headers:
-        season = parse("Season {season:d}", headers[0].text.strip())["season"]
+        season = seasons.Season.new_season(
+            parse("Season {season:d}", headers[0].text.strip())["season"]
+        )
+        motw_list.append(season)
 
     cells = row.find_all("td")
 
     if cells:
-        episode_num = int(cells[0].text)
-        title = cells[1].a.text
-        wikia_link = f'https://x-files.fandom.com{cells[1].a.get("href")}'
-        print(f's{season:02d}ep{episode_num:02d}: "{title}"')
-        motw_list["season"].append(season)
-        motw_list["episode"].append(episode_num)
-        motw_list["title"].append(title)
-        motw_list["url"].append(wikia_link)
+        ep = season.add_episode(
+            episode=int(cells[0].text),
+            title=cells[1].a.text,
+            url=f'https://x-files.fandom.com{cells[1].a.get("href")}',
+        )
+        print(repr(ep))
 
-motw_list = pd.DataFrame(motw_list)
+if __name__ == "__main__":
+    print("Saving file")
 
-motw_list.to_csv(os.path.join(os.path.dirname(__file__), "motw_files.csv"))
+    seasons.write_json(seasons=motw_list, filename=(seasons.SRC_DIR / "motw_episodes.json"))
+
+    import code
+
+    code.interact(local=dict(motw=motw_list))

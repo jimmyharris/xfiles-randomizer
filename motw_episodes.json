@@ -1,0 +1,917 @@
+{
+  "seasons": [
+    {
+      "number": 1,
+      "episodes": [
+        {
+          "season": 1,
+          "episode": 3,
+          "title": "Squeeze",
+          "url": "https://x-files.fandom.com/wiki/Squeeze"
+        },
+        {
+          "season": 1,
+          "episode": 5,
+          "title": "The Jersey Devil",
+          "url": "https://x-files.fandom.com/wiki/The_Jersey_Devil"
+        },
+        {
+          "season": 1,
+          "episode": 6,
+          "title": "Shadows",
+          "url": "https://x-files.fandom.com/wiki/Shadows"
+        },
+        {
+          "season": 1,
+          "episode": 7,
+          "title": "Ghost in the Machine",
+          "url": "https://x-files.fandom.com/wiki/Ghost_in_the_Machine"
+        },
+        {
+          "season": 1,
+          "episode": 8,
+          "title": "Ice",
+          "url": "https://x-files.fandom.com/wiki/Ice"
+        },
+        {
+          "season": 1,
+          "episode": 9,
+          "title": "Space",
+          "url": "https://x-files.fandom.com/wiki/Space"
+        },
+        {
+          "season": 1,
+          "episode": 11,
+          "title": "Eve",
+          "url": "https://x-files.fandom.com/wiki/Eve"
+        },
+        {
+          "season": 1,
+          "episode": 12,
+          "title": "Fire",
+          "url": "https://x-files.fandom.com/wiki/Fire"
+        },
+        {
+          "season": 1,
+          "episode": 13,
+          "title": "Beyond the Sea",
+          "url": "https://x-files.fandom.com/wiki/Beyond_the_Sea"
+        },
+        {
+          "season": 1,
+          "episode": 14,
+          "title": "Gender Bender",
+          "url": "https://x-files.fandom.com/wiki/Gender_Bender"
+        },
+        {
+          "season": 1,
+          "episode": 15,
+          "title": "Lazarus",
+          "url": "https://x-files.fandom.com/wiki/Lazarus"
+        },
+        {
+          "season": 1,
+          "episode": 16,
+          "title": "Young at Heart",
+          "url": "https://x-files.fandom.com/wiki/Young_at_Heart"
+        },
+        {
+          "season": 1,
+          "episode": 18,
+          "title": "Miracle Man",
+          "url": "https://x-files.fandom.com/wiki/Miracle_Man"
+        },
+        {
+          "season": 1,
+          "episode": 19,
+          "title": "Shapes",
+          "url": "https://x-files.fandom.com/wiki/Shapes"
+        },
+        {
+          "season": 1,
+          "episode": 20,
+          "title": "Darkness Falls",
+          "url": "https://x-files.fandom.com/wiki/Darkness_Falls"
+        },
+        {
+          "season": 1,
+          "episode": 21,
+          "title": "Tooms",
+          "url": "https://x-files.fandom.com/wiki/Tooms"
+        },
+        {
+          "season": 1,
+          "episode": 22,
+          "title": "Born Again",
+          "url": "https://x-files.fandom.com/wiki/Born_Again"
+        },
+        {
+          "season": 1,
+          "episode": 23,
+          "title": "Roland",
+          "url": "https://x-files.fandom.com/wiki/Roland"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "episodes": [
+        {
+          "season": 2,
+          "episode": 2,
+          "title": "The Host",
+          "url": "https://x-files.fandom.com/wiki/The_Host"
+        },
+        {
+          "season": 2,
+          "episode": 3,
+          "title": "Blood",
+          "url": "https://x-files.fandom.com/wiki/Blood"
+        },
+        {
+          "season": 2,
+          "episode": 4,
+          "title": "Sleepless",
+          "url": "https://x-files.fandom.com/wiki/Sleepless"
+        },
+        {
+          "season": 2,
+          "episode": 7,
+          "title": "3",
+          "url": "https://x-files.fandom.com/wiki/3"
+        },
+        {
+          "season": 2,
+          "episode": 9,
+          "title": "Firewalker",
+          "url": "https://x-files.fandom.com/wiki/Firewalker"
+        },
+        {
+          "season": 2,
+          "episode": 11,
+          "title": "Excelsis Dei",
+          "url": "https://x-files.fandom.com/wiki/Excelsis_Dei"
+        },
+        {
+          "season": 2,
+          "episode": 12,
+          "title": "Aubrey",
+          "url": "https://x-files.fandom.com/wiki/Aubrey"
+        },
+        {
+          "season": 2,
+          "episode": 13,
+          "title": "Irresistible",
+          "url": "https://x-files.fandom.com/wiki/Irresistible"
+        },
+        {
+          "season": 2,
+          "episode": 14,
+          "title": "Die Hand Die Verletzt",
+          "url": "https://x-files.fandom.com/wiki/Die_Hand_Die_Verletzt"
+        },
+        {
+          "season": 2,
+          "episode": 15,
+          "title": "Fresh Bones",
+          "url": "https://x-files.fandom.com/wiki/Fresh_Bones"
+        },
+        {
+          "season": 2,
+          "episode": 18,
+          "title": "Fearful Symmetry",
+          "url": "https://x-files.fandom.com/wiki/Fearful_Symmetry"
+        },
+        {
+          "season": 2,
+          "episode": 19,
+          "title": "D\u00f8d Kalm",
+          "url": "https://x-files.fandom.com/wiki/D%C3%B8d_Kalm"
+        },
+        {
+          "season": 2,
+          "episode": 20,
+          "title": "Humbug",
+          "url": "https://x-files.fandom.com/wiki/Humbug"
+        },
+        {
+          "season": 2,
+          "episode": 21,
+          "title": "The C\u0103lu\u015fari",
+          "url": "https://x-files.fandom.com/wiki/The_C%C4%83lu%C5%9Fari"
+        },
+        {
+          "season": 2,
+          "episode": 22,
+          "title": "F. Emasculata",
+          "url": "https://x-files.fandom.com/wiki/F._Emasculata"
+        },
+        {
+          "season": 2,
+          "episode": 23,
+          "title": "Soft Light",
+          "url": "https://x-files.fandom.com/wiki/Soft_Light"
+        },
+        {
+          "season": 2,
+          "episode": 24,
+          "title": "Our Town",
+          "url": "https://x-files.fandom.com/wiki/Our_Town"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "episodes": [
+        {
+          "season": 3,
+          "episode": 3,
+          "title": "D.P.O.",
+          "url": "https://x-files.fandom.com/wiki/D.P.O."
+        },
+        {
+          "season": 3,
+          "episode": 4,
+          "title": "Clyde Bruckman's Final Repose",
+          "url": "https://x-files.fandom.com/wiki/Clyde_Bruckman%27s_Final_Repose"
+        },
+        {
+          "season": 3,
+          "episode": 5,
+          "title": "The List",
+          "url": "https://x-files.fandom.com/wiki/The_List"
+        },
+        {
+          "season": 3,
+          "episode": 6,
+          "title": "2Shy",
+          "url": "https://x-files.fandom.com/wiki/2Shy"
+        },
+        {
+          "season": 3,
+          "episode": 7,
+          "title": "The Walk",
+          "url": "https://x-files.fandom.com/wiki/The_Walk"
+        },
+        {
+          "season": 3,
+          "episode": 8,
+          "title": "Oubliette",
+          "url": "https://x-files.fandom.com/wiki/Oubliette"
+        },
+        {
+          "season": 3,
+          "episode": 11,
+          "title": "Revelations",
+          "url": "https://x-files.fandom.com/wiki/Revelations"
+        },
+        {
+          "season": 3,
+          "episode": 12,
+          "title": "War of the Coprophages",
+          "url": "https://x-files.fandom.com/wiki/War_of_the_Coprophages"
+        },
+        {
+          "season": 3,
+          "episode": 13,
+          "title": "Syzygy",
+          "url": "https://x-files.fandom.com/wiki/Syzygy"
+        },
+        {
+          "season": 3,
+          "episode": 14,
+          "title": "Grotesque",
+          "url": "https://x-files.fandom.com/wiki/Grotesque"
+        },
+        {
+          "season": 3,
+          "episode": 17,
+          "title": "Pusher",
+          "url": "https://x-files.fandom.com/wiki/Pusher"
+        },
+        {
+          "season": 3,
+          "episode": 18,
+          "title": "Teso Dos Bichos",
+          "url": "https://x-files.fandom.com/wiki/Teso_Dos_Bichos"
+        },
+        {
+          "season": 3,
+          "episode": 19,
+          "title": "Hell Money",
+          "url": "https://x-files.fandom.com/wiki/Hell_Money"
+        },
+        {
+          "season": 3,
+          "episode": 20,
+          "title": "Jos\u00e9 Chung's From Outer Space",
+          "url": "https://x-files.fandom.com/wiki/Jos%C3%A9_Chung%27s_From_Outer_Space"
+        },
+        {
+          "season": 3,
+          "episode": 21,
+          "title": "Avatar",
+          "url": "https://x-files.fandom.com/wiki/Avatar"
+        },
+        {
+          "season": 3,
+          "episode": 22,
+          "title": "Quagmire",
+          "url": "https://x-files.fandom.com/wiki/Quagmire"
+        },
+        {
+          "season": 3,
+          "episode": 23,
+          "title": "Wetwired",
+          "url": "https://x-files.fandom.com/wiki/Wetwired"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "episodes": [
+        {
+          "season": 4,
+          "episode": 2,
+          "title": "Home",
+          "url": "https://x-files.fandom.com/wiki/Home"
+        },
+        {
+          "season": 4,
+          "episode": 3,
+          "title": "Teliko",
+          "url": "https://x-files.fandom.com/wiki/Teliko"
+        },
+        {
+          "season": 4,
+          "episode": 4,
+          "title": "Unruhe",
+          "url": "https://x-files.fandom.com/wiki/Unruhe"
+        },
+        {
+          "season": 4,
+          "episode": 5,
+          "title": "The Field Where I Died",
+          "url": "https://x-files.fandom.com/wiki/The_Field_Where_I_Died"
+        },
+        {
+          "season": 4,
+          "episode": 6,
+          "title": "Sanguinarium",
+          "url": "https://x-files.fandom.com/wiki/Sanguinarium"
+        },
+        {
+          "season": 4,
+          "episode": 10,
+          "title": "Paper Hearts",
+          "url": "https://x-files.fandom.com/wiki/Paper_Hearts"
+        },
+        {
+          "season": 4,
+          "episode": 11,
+          "title": "El Mundo Gira",
+          "url": "https://x-files.fandom.com/wiki/El_Mundo_Gira"
+        },
+        {
+          "season": 4,
+          "episode": 12,
+          "title": "Leonard Betts",
+          "url": "https://x-files.fandom.com/wiki/Leonard_Betts"
+        },
+        {
+          "season": 4,
+          "episode": 13,
+          "title": "Never Again",
+          "url": "https://x-files.fandom.com/wiki/Never_Again"
+        },
+        {
+          "season": 4,
+          "episode": 15,
+          "title": "Kaddish",
+          "url": "https://x-files.fandom.com/wiki/Kaddish"
+        },
+        {
+          "season": 4,
+          "episode": 16,
+          "title": "Unrequited",
+          "url": "https://x-files.fandom.com/wiki/Unrequited"
+        },
+        {
+          "season": 4,
+          "episode": 19,
+          "title": "Synchrony",
+          "url": "https://x-files.fandom.com/wiki/Synchrony"
+        },
+        {
+          "season": 4,
+          "episode": 20,
+          "title": "Small Potatoes",
+          "url": "https://x-files.fandom.com/wiki/Small_Potatoes"
+        },
+        {
+          "season": 4,
+          "episode": 22,
+          "title": "Elegy",
+          "url": "https://x-files.fandom.com/wiki/Elegy"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "episodes": [
+        {
+          "season": 5,
+          "episode": 4,
+          "title": "Detour",
+          "url": "https://x-files.fandom.com/wiki/Detour"
+        },
+        {
+          "season": 5,
+          "episode": 5,
+          "title": "The Post-Modern Prometheus",
+          "url": "https://x-files.fandom.com/wiki/The_Post-Modern_Prometheus"
+        },
+        {
+          "season": 5,
+          "episode": 8,
+          "title": "Kitsunegari",
+          "url": "https://x-files.fandom.com/wiki/Kitsunegari"
+        },
+        {
+          "season": 5,
+          "episode": 9,
+          "title": "Schizogeny",
+          "url": "https://x-files.fandom.com/wiki/Schizogeny"
+        },
+        {
+          "season": 5,
+          "episode": 10,
+          "title": "Chinga",
+          "url": "https://x-files.fandom.com/wiki/Chinga"
+        },
+        {
+          "season": 5,
+          "episode": 11,
+          "title": "Kill Switch",
+          "url": "https://x-files.fandom.com/wiki/Kill_Switch"
+        },
+        {
+          "season": 5,
+          "episode": 12,
+          "title": "Bad Blood",
+          "url": "https://x-files.fandom.com/wiki/Bad_Blood"
+        },
+        {
+          "season": 5,
+          "episode": 16,
+          "title": "Mind's Eye",
+          "url": "https://x-files.fandom.com/wiki/Mind%27s_Eye"
+        },
+        {
+          "season": 5,
+          "episode": 17,
+          "title": "All Souls",
+          "url": "https://x-files.fandom.com/wiki/All_Souls"
+        },
+        {
+          "season": 5,
+          "episode": 18,
+          "title": "The Pine Bluff Variant",
+          "url": "https://x-files.fandom.com/wiki/The_Pine_Bluff_Variant"
+        },
+        {
+          "season": 5,
+          "episode": 19,
+          "title": "Folie a Deux",
+          "url": "https://x-files.fandom.com/wiki/Folie_a_Deux"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "episodes": [
+        {
+          "season": 6,
+          "episode": 2,
+          "title": "Drive",
+          "url": "https://x-files.fandom.com/wiki/Drive"
+        },
+        {
+          "season": 6,
+          "episode": 3,
+          "title": "Triangle",
+          "url": "https://x-files.fandom.com/wiki/Triangle"
+        },
+        {
+          "season": 6,
+          "episode": 4,
+          "title": "Dreamland I",
+          "url": "https://x-files.fandom.com/wiki/Dreamland_I"
+        },
+        {
+          "season": 6,
+          "episode": 5,
+          "title": "Dreamland II",
+          "url": "https://x-files.fandom.com/wiki/Dreamland_II"
+        },
+        {
+          "season": 6,
+          "episode": 6,
+          "title": "How the Ghosts Stole Christmas",
+          "url": "https://x-files.fandom.com/wiki/How_the_Ghosts_Stole_Christmas"
+        },
+        {
+          "season": 6,
+          "episode": 7,
+          "title": "Terms of Endearment",
+          "url": "https://x-files.fandom.com/wiki/Terms_of_Endearment"
+        },
+        {
+          "season": 6,
+          "episode": 8,
+          "title": "The Rain King",
+          "url": "https://x-files.fandom.com/wiki/The_Rain_King"
+        },
+        {
+          "season": 6,
+          "episode": 10,
+          "title": "Tithonus",
+          "url": "https://x-files.fandom.com/wiki/Tithonus"
+        },
+        {
+          "season": 6,
+          "episode": 13,
+          "title": "Agua Mala",
+          "url": "https://x-files.fandom.com/wiki/Agua_Mala"
+        },
+        {
+          "season": 6,
+          "episode": 14,
+          "title": "Monday",
+          "url": "https://x-files.fandom.com/wiki/Monday"
+        },
+        {
+          "season": 6,
+          "episode": 15,
+          "title": "Arcadia",
+          "url": "https://x-files.fandom.com/wiki/Arcadia"
+        },
+        {
+          "season": 6,
+          "episode": 16,
+          "title": "Alpha",
+          "url": "https://x-files.fandom.com/wiki/Alpha"
+        },
+        {
+          "season": 6,
+          "episode": 17,
+          "title": "Trevor",
+          "url": "https://x-files.fandom.com/wiki/Trevor"
+        },
+        {
+          "season": 6,
+          "episode": 18,
+          "title": "Milagro",
+          "url": "https://x-files.fandom.com/wiki/Milagro"
+        },
+        {
+          "season": 6,
+          "episode": 19,
+          "title": "The Unnatural",
+          "url": "https://x-files.fandom.com/wiki/The_Unnatural"
+        },
+        {
+          "season": 6,
+          "episode": 20,
+          "title": "Three of a Kind",
+          "url": "https://x-files.fandom.com/wiki/Three_of_a_Kind"
+        },
+        {
+          "season": 6,
+          "episode": 21,
+          "title": "Field Trip",
+          "url": "https://x-files.fandom.com/wiki/Field_Trip"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "episodes": [
+        {
+          "season": 7,
+          "episode": 3,
+          "title": "Hungry",
+          "url": "https://x-files.fandom.com/wiki/Hungry"
+        },
+        {
+          "season": 7,
+          "episode": 4,
+          "title": "Millennium",
+          "url": "https://x-files.fandom.com/wiki/Millennium_(episode)"
+        },
+        {
+          "season": 7,
+          "episode": 5,
+          "title": "Rush",
+          "url": "https://x-files.fandom.com/wiki/Rush"
+        },
+        {
+          "season": 7,
+          "episode": 6,
+          "title": "The Goldberg Variation",
+          "url": "https://x-files.fandom.com/wiki/The_Goldberg_Variation"
+        },
+        {
+          "season": 7,
+          "episode": 7,
+          "title": "Orison",
+          "url": "https://x-files.fandom.com/wiki/Orison"
+        },
+        {
+          "season": 7,
+          "episode": 8,
+          "title": "The Amazing Maleeni",
+          "url": "https://x-files.fandom.com/wiki/The_Amazing_Maleeni"
+        },
+        {
+          "season": 7,
+          "episode": 9,
+          "title": "Signs and Wonders",
+          "url": "https://x-files.fandom.com/wiki/Signs_and_Wonders"
+        },
+        {
+          "season": 7,
+          "episode": 12,
+          "title": "X-Cops",
+          "url": "https://x-files.fandom.com/wiki/X-Cops"
+        },
+        {
+          "season": 7,
+          "episode": 13,
+          "title": "First Person Shooter",
+          "url": "https://x-files.fandom.com/wiki/First_Person_Shooter"
+        },
+        {
+          "season": 7,
+          "episode": 14,
+          "title": "Theef",
+          "url": "https://x-files.fandom.com/wiki/Theef"
+        },
+        {
+          "season": 7,
+          "episode": 16,
+          "title": "Chimera",
+          "url": "https://x-files.fandom.com/wiki/Chimera"
+        },
+        {
+          "season": 7,
+          "episode": 17,
+          "title": "all things",
+          "url": "https://x-files.fandom.com/wiki/All_things"
+        },
+        {
+          "season": 7,
+          "episode": 18,
+          "title": "Brand X",
+          "url": "https://x-files.fandom.com/wiki/Brand_X"
+        },
+        {
+          "season": 7,
+          "episode": 19,
+          "title": "Hollywood A.D.",
+          "url": "https://x-files.fandom.com/wiki/Hollywood_A.D."
+        },
+        {
+          "season": 7,
+          "episode": 20,
+          "title": "Fight Club",
+          "url": "https://x-files.fandom.com/wiki/Fight_Club"
+        },
+        {
+          "season": 7,
+          "episode": 21,
+          "title": "Je Souhaite",
+          "url": "https://x-files.fandom.com/wiki/Je_Souhaite"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "episodes": [
+        {
+          "season": 8,
+          "episode": 3,
+          "title": "Patience",
+          "url": "https://x-files.fandom.com/wiki/Patience"
+        },
+        {
+          "season": 8,
+          "episode": 4,
+          "title": "Roadrunners",
+          "url": "https://x-files.fandom.com/wiki/Roadrunners"
+        },
+        {
+          "season": 8,
+          "episode": 5,
+          "title": "Invocation",
+          "url": "https://x-files.fandom.com/wiki/Invocation"
+        },
+        {
+          "season": 8,
+          "episode": 6,
+          "title": "Redrum",
+          "url": "https://x-files.fandom.com/wiki/Redrum"
+        },
+        {
+          "season": 8,
+          "episode": 7,
+          "title": "Via Negativa",
+          "url": "https://x-files.fandom.com/wiki/Via_Negativa"
+        },
+        {
+          "season": 8,
+          "episode": 8,
+          "title": "Surekill",
+          "url": "https://x-files.fandom.com/wiki/Surekill"
+        },
+        {
+          "season": 8,
+          "episode": 9,
+          "title": "Salvage",
+          "url": "https://x-files.fandom.com/wiki/Salvage"
+        },
+        {
+          "season": 8,
+          "episode": 10,
+          "title": "Badlaa",
+          "url": "https://x-files.fandom.com/wiki/Badlaa"
+        },
+        {
+          "season": 8,
+          "episode": 12,
+          "title": "Medusa",
+          "url": "https://x-files.fandom.com/wiki/Medusa"
+        },
+        {
+          "season": 8,
+          "episode": 17,
+          "title": "Empedocles",
+          "url": "https://x-files.fandom.com/wiki/Empedocles"
+        },
+        {
+          "season": 8,
+          "episode": 19,
+          "title": "Alone",
+          "url": "https://x-files.fandom.com/wiki/Alone"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "episodes": [
+        {
+          "season": 9,
+          "episode": 3,
+          "title": "Daemonicus",
+          "url": "https://x-files.fandom.com/wiki/Daemonicus"
+        },
+        {
+          "season": 9,
+          "episode": 4,
+          "title": "4-D",
+          "url": "https://x-files.fandom.com/wiki/4-D"
+        },
+        {
+          "season": 9,
+          "episode": 5,
+          "title": "Lord of the Flies",
+          "url": "https://x-files.fandom.com/wiki/Lord_of_the_Flies"
+        },
+        {
+          "season": 9,
+          "episode": 7,
+          "title": "John Doe",
+          "url": "https://x-files.fandom.com/wiki/John_Doe"
+        },
+        {
+          "season": 9,
+          "episode": 8,
+          "title": "Hellbound",
+          "url": "https://x-files.fandom.com/wiki/Hellbound"
+        },
+        {
+          "season": 9,
+          "episode": 11,
+          "title": "Audrey Pauley",
+          "url": "https://x-files.fandom.com/wiki/Audrey_Pauley_(episode)"
+        },
+        {
+          "season": 9,
+          "episode": 12,
+          "title": "Underneath",
+          "url": "https://x-files.fandom.com/wiki/Underneath"
+        },
+        {
+          "season": 9,
+          "episode": 13,
+          "title": "Improbable",
+          "url": "https://x-files.fandom.com/wiki/Improbable"
+        },
+        {
+          "season": 9,
+          "episode": 14,
+          "title": "Scary Monsters",
+          "url": "https://x-files.fandom.com/wiki/Scary_Monsters"
+        },
+        {
+          "season": 9,
+          "episode": 17,
+          "title": "Release",
+          "url": "https://x-files.fandom.com/wiki/Release"
+        },
+        {
+          "season": 9,
+          "episode": 18,
+          "title": "Sunshine Days",
+          "url": "https://x-files.fandom.com/wiki/Sunshine_Days"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "episodes": [
+        {
+          "season": 10,
+          "episode": 2,
+          "title": "Founder's Mutation",
+          "url": "https://x-files.fandom.com/wiki/Founder%27s_Mutation"
+        },
+        {
+          "season": 10,
+          "episode": 3,
+          "title": "Mulder and Scully Meet the Were-Monster",
+          "url": "https://x-files.fandom.com/wiki/Mulder_and_Scully_Meet_the_Were-Monster"
+        },
+        {
+          "season": 10,
+          "episode": 4,
+          "title": "Home Again",
+          "url": "https://x-files.fandom.com/wiki/Home_Again"
+        },
+        {
+          "season": 10,
+          "episode": 5,
+          "title": "Babylon",
+          "url": "https://x-files.fandom.com/wiki/Babylon"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "episodes": [
+        {
+          "season": 11,
+          "episode": 2,
+          "title": "This",
+          "url": "https://x-files.fandom.com/wiki/This"
+        },
+        {
+          "season": 11,
+          "episode": 3,
+          "title": "Plus One",
+          "url": "https://x-files.fandom.com/wiki/Plus_One"
+        },
+        {
+          "season": 11,
+          "episode": 4,
+          "title": "The Lost Art of Forehead Sweat",
+          "url": "https://x-files.fandom.com/wiki/The_Lost_Art_of_Forehead_Sweat"
+        },
+        {
+          "season": 11,
+          "episode": 6,
+          "title": "Kitten",
+          "url": "https://x-files.fandom.com/wiki/Kitten"
+        },
+        {
+          "season": 11,
+          "episode": 7,
+          "title": "Rm9sbG93ZXJz",
+          "url": "https://x-files.fandom.com/wiki/Rm9sbG93ZXJz"
+        },
+        {
+          "season": 11,
+          "episode": 8,
+          "title": "Familiar",
+          "url": "https://x-files.fandom.com/wiki/Familiar"
+        },
+        {
+          "season": 11,
+          "episode": 9,
+          "title": "Nothing Lasts Forever",
+          "url": "https://x-files.fandom.com/wiki/Nothing_Lasts_Forever"
+        }
+      ]
+    }
+  ]
+}
